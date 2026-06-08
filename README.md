@@ -185,8 +185,8 @@ print(f"Extracted {len(ac_maps)} frequency-resolved AC maps")
 
 ## 📚 Publications
 
-1. **Ahmmed, R.**, Kluiszo, E., Sunar, U. (2024). *Quantitative Fluorescence Imaging of Chemophototherapy Drug Pharmacokinetics Using Laparoscopic SFDI*. **Int. J. Molecular Sciences**, Q1, IF 4.9. [DOI](https://doi.org/10.3390/ijms)
-2. Kluiszo, E., **Ahmmed, R.**, Sunar, U. (2024). *Mesoscopic Fluorescence Imaging of Light-Triggered Chemotherapeutic Release in Cancer Spheroid Models*. **Pharmaceutics**, Q1, IF 5.5.
+1. **Ahmmed, R.**, Kluiszo, E., Sunar, U. (2026). *Quantitative Fluorescence Imaging of Chemophototherapy Drug Pharmacokinetics Using Laparoscopic SFDI*. **Int. J. Molecular Sciences**, Q1, IF 4.9. [DOI](https://doi.org/10.3390/ijms)
+2. Kluiszo, E., **Ahmmed, R.**, Sunar, U. (2025). *Mesoscopic Fluorescence Imaging of Light-Triggered Chemotherapeutic Release in Cancer Spheroid Models*. **Pharmaceutics**, Q1, IF 5.5.
 
 ---
 
